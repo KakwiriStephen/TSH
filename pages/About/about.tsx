@@ -91,9 +91,9 @@ const About: React.FC = () => {
           </h2>
           <p className="text-base md:text-lg text-left">
             At Treshaw International School, we believe that extracurricular
-            activities are an essential part of a student's education. We offer
-            a variety of activities to help students develop their talents and
-            interests. Some of the activities we offer include:
+            activities are an essential part of a education. We offer a variety
+            of activities to help students develop their talents and interests.
+            Some of the activities we offer include:
           </p>
         </div>
         <div className="sports">
