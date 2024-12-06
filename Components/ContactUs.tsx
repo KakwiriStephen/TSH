@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import { FaPhone, FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
 
 function ContactUs() {
@@ -24,16 +24,12 @@ function ContactUs() {
 
           <div className="space-y-1 text-center md:text-left z-1">
             <p className="flex flex-col md:flex-row items-center justify-center md:justify-start space-y-2 md:space-y-0 md:space-x-2 z-1">
-              <FaPhone
-                className="text-white"
-              />
+              <FaPhone className="text-white" />
               <span>+254-714006148</span>
             </p>
             <br />
             <p className="flex flex-col md:flex-row items-center justify-center md:justify-start space-y-2 md:space-y-0 md:space-x-2 z-1">
-              <FaPhone
-                className="text-white"
-              />
+              <FaPhone className="text-white" />
               <span>+254-717661283</span>
             </p>
             <br />

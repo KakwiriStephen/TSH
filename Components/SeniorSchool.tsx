@@ -3,7 +3,9 @@ import React from "react";
 function SeniorSchool() {
   return (
     <div className="w-full p-4 sm:p-8 lg:p-12 bg-gray-100 min-h-screen">
-      <div className="w-full bg-gray-100 "><br></br><br></br>
+      <div className="w-full bg-gray-100 ">
+        <br></br>
+        <br></br>
         {/* Header */}
         <div className="text-center">
           <h1 className="text-2xl font-bold">Key Stage 3: iLower Secondary </h1>

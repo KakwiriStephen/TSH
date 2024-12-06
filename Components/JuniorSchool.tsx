@@ -3,7 +3,9 @@ import React from "react";
 function JuniorSchool() {
   return (
     <div className="w-full p-4 sm:p-8 lg:p-12 bg-gray-100 min-h-screen">
-      <div className="w-full bg-gray-100"><br></br><br></br>
+      <div className="w-full bg-gray-100">
+        <br></br>
+        <br></br>
         {/* Header */}
         <div className="text-center">
           <h1 className="text-2xl font-bold">
@@ -13,7 +15,7 @@ function JuniorSchool() {
             In this section, we have iPrimary: KS1 (Year 1 & Year 2), KS2 (Year
             3 to Year 6). In each class we only conduct Regular Classes which
             run from 7.20 am to 3.40 pm Monday to Friday. Year 6 students have
-            Saturday classes which run between 9.00 am and 1.00 pm. We don’t
+            Saturday classes which run between 9.00 am and 1.00 pm. We dont
             conduct Sunday classes.
           </p>
         </div>
@@ -25,7 +27,9 @@ function JuniorSchool() {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="p-3 bg-white rounded-lg shadow-lg border border-gray-200 min-h-[200px] mx-auto w-[60%] transform transition duration-300 hover:scale-105 hover:shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25),0px_2px_4px_0px_rgba(171,190,209,0.2)]">
-              <h2 className=" font-bold text-md">Key stage 1 (Reception to Year 2) </h2>
+              <h2 className=" font-bold text-md">
+                Key stage 1 (Reception to Year 2){" "}
+              </h2>
               <ul className="list-disc list-inside text-gray-700 space-y-2">
                 <li>Mathematics</li>
                 <li>English</li>
@@ -36,7 +40,9 @@ function JuniorSchool() {
               </ul>
             </div>
             <div className="p-3 bg-white rounded-lg shadow-lg border border-gray-200 min-h-[200px] mx-auto w-[60%] transform transition duration-300 hover:scale-105 hover:shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25),0px_2px_4px_0px_rgba(171,190,209,0.2)]">
-              <h2 className="font-bold text-md">Key stage 2 (Year 3 to Year 6) </h2>
+              <h2 className="font-bold text-md">
+                Key stage 2 (Year 3 to Year 6){" "}
+              </h2>
               <ul className="list-disc list-inside text-gray-700 space-y-2">
                 <li>Mathematics</li>
                 <li>English</li>

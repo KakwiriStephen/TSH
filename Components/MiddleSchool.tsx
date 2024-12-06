@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function MiddleSchool() {
   return (
@@ -8,7 +8,8 @@ function MiddleSchool() {
         <div className="text-center">
           <h1 className="text-2xl font-bold">KS3: iLower Secondary</h1>
           <p className="text-gray-700 mt-4">
-            In this section, we offer Pearson Edexcel British International Curriculum at iLower Secondary school (Year 7 to Year 9).
+            In this section, we offer Pearson Edexcel British International
+            Curriculum at iLower Secondary school (Year 7 to Year 9).
           </p>
         </div>
 
@@ -50,12 +51,20 @@ function MiddleSchool() {
         {/* Additional Information */}
         <div className="mt-8 text-center p-4">
           <p className="text-gray-700 mt-4">
-            We have Regular Classes which run from 7.30 am to 3.40 pm Monday to Friday. Religious (Quran & Bible study) takes place every morning between 7.20 am and 7.50 am every Monday to Thursday.
-            Intake for the other classes (Year 7 to Year 9) is done within the first month of every term.
+            We have Regular Classes which run from 7.30 am to 3.40 pm Monday to
+            Friday. Religious (Quran & Bible study) takes place every morning
+            between 7.20 am and 7.50 am every Monday to Thursday. Intake for the
+            other classes (Year 7 to Year 9) is done within the first month of
+            every term.
           </p>
           <p className="text-gray-700 mt-4">
-            Students transitioning from 8.4.4 standard 8 with KCPE score of 300 marks and above are expected to join our bridging course program for iLower Secondary School, which runs between 10th January and 30th July annually.
-            Successful students are usually admitted into Year 9 Pearson Edexcel in September of the same (yearly) calendar, upon attaining the required minimum pass-mark in the iLower Secondary internal examinations.
+            Students transitioning from 8.4.4 standard 8 with KCPE score of 300
+            marks and above are expected to join our bridging course program for
+            iLower Secondary School, which runs between 10th January and 30th
+            July annually. Successful students are usually admitted into Year 9
+            Pearson Edexcel in September of the same (yearly) calendar, upon
+            attaining the required minimum pass-mark in the iLower Secondary
+            internal examinations.
           </p>
         </div>
       </div>

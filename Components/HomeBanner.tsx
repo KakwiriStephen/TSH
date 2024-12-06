@@ -25,7 +25,7 @@ export default function HeroSection() {
             </span>
           </h1>
           <p className="text-gray-700 mt-4">
-            We empower students to become the world’s trailblazers. <br /> We
+            We empower students to become the worlds trailblazers. <br /> We
             prepare each child for life, not just for tests.
           </p>
 
