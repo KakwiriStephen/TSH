@@ -252,7 +252,7 @@ export default function AboutComponent() {
             <p className="text-lg mt-4 leading-relaxed">
               With a culture of collaboration, a roster of talent, and several
               office pooches, the Themesberg team is active in the creative
-              community, endlessly interested in what’s next, and generally
+              community, endlessly interested in whats next, and generally
               pleasant to be around.
             </p>
             <div className="mt-6">
